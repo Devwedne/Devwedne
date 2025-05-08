@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou um estudante de Ciência da Computação apaixonado por tecnologia e desenvolvimento de software. venho me dedicando intensamente a construir uma base sólida tanto em fundamentos quanto em tecnologias modernas de desenvolvimento web.</p>
+<p align="left">Sou um estudante de Ciência da Computação apaixonado por tecnologia e desenvolvimento de software. Venho me dedicando intensamente a construir uma base sólida tanto em fundamentos quanto em tecnologias modernas de desenvolvimento web.</p>
 
 ###
 

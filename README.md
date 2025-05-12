@@ -1,4 +1,4 @@
-<h1 align="left">Olá, Eu sou Wedne Morais 👋🏻</h1>
+<h2 align="left">Olá, meu nome é Wedne Morais! 👋🏻</h2>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Sobre Mim</h2>
+<h3 align="left">👤 Sobre mim:</h3>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Desenvolvo Com</h2>
+<h3 align="left">🛠 Desenvolvo com:</h3>
 
 ###
 

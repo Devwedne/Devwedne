@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Sou um desenvolvedor focado no Front-End, com dedicação em criar interfaces modernas, funcionais e intuitivas. Tenho experiência com HTML, CSS, JavaScript, TypeScript e ReactJS, e procuro sempre evoluir na forma como entrego valor por meio da tecnologia.<br><br>Gosto de transformar ideias em experiências visuais que sejam agradáveis e eficazes para o usuário. Me preocupo com organização do código, desempenho das aplicações e com a clareza de cada componente desenvolvido.</p>
+<p align="left">Sou um desenvolvedor focado no Front-End, com dedicação em criar interfaces modernas, funcionais e intuitivas. Tenho experiência com HTML, CSS, JavaScript, TypeScript e ReactJS, e procuro sempre evoluir na forma como entrego valor por meio da tecnologia.<br><br>Gosto de transformar ideias em experiências visuais que sejam agradáveis e eficazes para o usuário. Me preocupo com organização do código, desempenho das aplicações e a clareza de cada componente desenvolvido.</p>
 
 ###
 

@@ -25,9 +25,9 @@
   <img width="9" />
   <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" height="40" alt="javascript logo"  />
   <img width="9" />
-  <img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000 height="40" alt="react logo"  />
+  <img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" height="40" alt="react logo"  />
   <img width="9" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" height="40" alt="typescript logo"  />
 </div>
 
 ###

@@ -19,7 +19,7 @@
 ###
 
 <div align="left">
-  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" height="20" alt="html5 logo"  />
+  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" height="21" alt="html5 logo"  />
 
   <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" height="20" alt="css3 logo"  />
 

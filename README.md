@@ -21,12 +21,12 @@
 <div align="left">
   <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" height="21" alt="html5 logo"  />
 
-  <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" height="20" alt="css3 logo"  />
+  <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" height="21" alt="css3 logo"  />
 
-  <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" height="20" alt="javascript logo"  />
+  <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" height="21" alt="javascript logo"  />
 
-  <img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" height="20" alt="react logo"  />
+  <img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" height="21" alt="react logo"  />
  
-  <img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" height="20" alt="typescript logo"  />
+  <img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" height="21" alt="typescript logo"  />
 </div>
 
